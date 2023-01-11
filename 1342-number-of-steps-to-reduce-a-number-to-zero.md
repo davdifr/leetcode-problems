@@ -55,13 +55,10 @@ var numberOfSteps = function(num) {
     while (num) {
         if (num % 2 === 0) {
             num = Math.floor(num / 2);
-            count++;
-            continue;
         } else {
             num--;
-            count++;
-            continue;
         }
+        count++;
     };
     return count;
 }
