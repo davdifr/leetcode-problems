@@ -74,4 +74,4 @@ var mergeTwoLists = function(list1, list2) {
 
 ## Score
 
-![merge-two-sorted-lists](merge-two-sorted-lists.png)
+![merge-two-sorted-lists](assets/merge-two-sorted-lists.png)
